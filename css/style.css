@@ -20,8 +20,8 @@ header {
 
 .logoJp {
   max-width: 100%;
-  border: 5px solid black;  /* Agregado: Borde negro para el logo */
-  border-radius: 10px;      /* Agregado: Bordes redondeados para el logo */
+  border: 5px solid black;  
+  border-radius: 10px;      
 }
 
 .logoText {
@@ -279,12 +279,10 @@ input[type="submit"]:hover {
 
 
 
-/* Media query para pantallas pequeñas (teléfonos móviles) */
+
 @media (max-width: 767px) {
-  /* Estilos específicos para pantallas pequeñas */
 }
 
-/* Media query para pantallas medianas y grandes */
+
 @media (min-width: 768px) {
-  /* Estilos específicos para pantallas medianas y grandes */
 }
